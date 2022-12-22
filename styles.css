@@ -1,0 +1,40 @@
+body {
+  text-align: center;
+}
+h1 {
+  font-size: 3rem;
+}
+
+.green {
+  background-color: green;
+}
+.red {
+  background-color: red;
+}
+.yellow {
+  background-color: yellow;
+}
+.blue {
+  background-color: blue;
+}
+.btn {
+  height: 200px;
+  width: 200px;
+  border: 10px solid;
+  border-color: black;
+  border-radius: 15%;
+  display: inline-block;
+  margin: 20px;
+}
+
+.row1 {
+  display: inline-block;
+}
+.row2 {
+  display: inline-block;
+}
+
+.pressed {
+  box-shadow: 0px 0px 20px black;
+  background-color: grey;
+}
